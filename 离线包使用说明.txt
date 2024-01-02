@@ -1,1 +1,1 @@
-将压缩包内"FreeBnS"文件夹复制到"此电脑/文档/Arkham"即可.
+将压缩包内文件夹 "FreeBnS"、"NextBnS" 复制到 "此电脑/文档/Arkham" 即可。
